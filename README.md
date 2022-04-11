@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on you =r next big project!
 
 
-You can see my latest work at https://unthackathon.com/schedule
+You can see my latest work at https://unthackathon.com/
 
 
