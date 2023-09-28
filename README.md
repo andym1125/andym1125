@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Andy McDowall (@andym1125)
-- 👀 I’m interested in web and blockchain development
-- 🌱 I’m currently learning Solidity contractual programming
-- 💞️ I’m looking to collaborate on your next big project!
+👋 Howdy!
 
-
-You can see my latest work at https://unthackathon.com/
-
-
+⚛ I’m organizing HackUNT! Check us out at https://hackunt.org/
+🏛 I'm interested in financial technology and distributed systems!
+🗣 Experience in Java, C, C++, C#, Go, Javascript, etc
+🌱 I’m currently learning the Mastodon API
+💞️ I’m looking to collaborate on your next big project!
